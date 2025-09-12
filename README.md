@@ -9,7 +9,7 @@
 - **Tools**: Git, Docker, VS Code
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilolivorato&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wandile-cyber&theme=radical&hide_border=true)
 - 
