@@ -2,19 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF72F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Wandile;Software+Engineer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate developer from South Africa 🇿🇦 who builds (and occasionally breaks) cool stuff.</h3>
+<h3 align="center"> I’m a software engineer who loves building innovative projects and solving complex problems.</h3>
 
----
-
-### What I'm Up To
-
--  **Currently Working On:** Building cool stuff and breaking things (mostly on purpose).
--  **Currently Learning:** Always leveling up my skills in new tech.
--  **Interested In:** Web development, open source, and automation.
--  **2024 Goals:** Contribute more to open-source projects.
--  **Fun Fact:** I probably spend more time customizing my IDE than I do writing code some days.
-
----
 
 ###  Tech & Tools
 
