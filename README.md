@@ -6,17 +6,17 @@
 
 ---
 
-### 👨‍💻 What I'm Up To
+### What I'm Up To
 
-- 🔭 **Currently Working On:** Building cool stuff and breaking things (mostly on purpose).
-- 🌱 **Currently Learning:** Always leveling up my skills in new tech.
-- 💡 **Interested In:** Web development, open source, and automation.
-- 🎯 **2024 Goals:** Contribute more to open-source projects.
-- ⚡ **Fun Fact:** I probably spend more time customizing my IDE than I do writing code some days.
+-  **Currently Working On:** Building cool stuff and breaking things (mostly on purpose).
+-  **Currently Learning:** Always leveling up my skills in new tech.
+-  **Interested In:** Web development, open source, and automation.
+-  **2024 Goals:** Contribute more to open-source projects.
+-  **Fun Fact:** I probably spend more time customizing my IDE than I do writing code some days.
 
 ---
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,12 +70,9 @@
   <a href="mailto:ralphdlamini3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/wandile-ralph-dlamini/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a> 
 </p>
 
 ---
