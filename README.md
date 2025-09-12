@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/Wandile-cyber">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 
