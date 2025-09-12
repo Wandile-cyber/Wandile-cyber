@@ -42,7 +42,7 @@
 
 ---
 
-### 🎯 Recent Activity
+###  Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- This section will auto-populate with recent activity using https://github.com/readme-activity/readme-activity -->
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 <p align="center">
   <a href="mailto:ralphdlamini3@gmail.com">
@@ -63,12 +63,6 @@
   </a> 
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wandile-cyber&color=radical&style=for-the-badge" alt="Profile Views">
-</p>
-
 <p align="center"> 
-  <i>Let's collaborate on something awesome! 😄</i>
+  <i>Let's collaborate!</i>
 </p>
