@@ -50,6 +50,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wandile-cyber&theme=gotham)](https://github.com/Wandile-cyber/github-readme-activity-graph)
 
+
+*To set up automatic activity updates, check out [readme-activity](https://github.com/anuraghazra/github-readme-stats)*
+
 ---
 
 ###  Let's Connect!
