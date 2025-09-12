@@ -32,12 +32,12 @@
 
 <p align="center">
   <a href="https://github.com/Wandile-cyber">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=transparent&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=elegant&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wandile-cyber&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Wandile-cyber&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
