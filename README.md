@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF72F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Wandile;Software+Engineer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Wandile;Software+Engineer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 </h1>
 
 <h3 align="center"> I’m a software engineer who loves building innovative projects and solving complex problems.</h3>
@@ -32,12 +32,12 @@
 
 <p align="center">
   <a href="https://github.com/Wandile-cyber">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=shadow_green&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandile-cyber&layout=compact&theme=gotham&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wandile-cyber&theme=shadow_green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Wandile-cyber&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 <!-- This section will auto-populate with recent activity using https://github.com/readme-activity/readme-activity -->
 <!--END_SECTION:activity-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wandile-cyber&theme=elegant)](https://github.com/Wandile-cyber/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wandile-cyber&theme=gotham)](https://github.com/Wandile-cyber/github-readme-activity-graph)
 
 ---
 
