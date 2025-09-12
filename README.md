@@ -48,6 +48,8 @@
 <!-- This section will auto-populate with recent activity using https://github.com/readme-activity/readme-activity -->
 <!--END_SECTION:activity-->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wandile-cyber)](https://github.com/Wandile-cyber/github-readme-activity-graph)
+
 *To set up automatic activity updates, check out [readme-activity](https://github.com/readme-activity/readme-action)*
 
 ---
